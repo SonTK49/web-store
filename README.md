@@ -1,0 +1,18 @@
+# Web Store
+
+Cửa hàng game và tiện ích HTML do bạn bè cùng đóng góp, chạy trên GitHub Pages.
+
+- Mỗi app nằm trong một thư mục `apps/<tên-app>/` với `index.html` là file mở đầu.
+- Mỗi khi có thay đổi, GitHub Actions (`.github/workflows/deploy.yml`) chạy `scripts/build-apps.mjs` để tạo `apps.json`, rồi đăng trang.
+- Muốn góp app? Xem [CONTRIBUTING.md](CONTRIBUTING.md).
+
+## Chạy thử trên máy
+
+`index.html` cần đọc `apps.json`, nên không mở trực tiếp bằng file:// được. Trong thư mục repo, chạy:
+
+```
+node scripts/build-apps.mjs
+npx serve .
+```
+
+rồi mở địa chỉ mà lệnh trên in ra.

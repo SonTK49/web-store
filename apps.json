@@ -1,0 +1,89 @@
+{
+  "generated": 1793263853786,
+  "apps": [
+    {
+      "id": "ban-ga",
+      "title": "Bắn gà",
+      "type": "game",
+      "category": "Hành động",
+      "description": "Lái phi thuyền, bắn hạ đàn gà vũ trụ và né cơn bão lông gà.",
+      "author": "",
+      "color": "#e0533b",
+      "icon": null,
+      "cover": null,
+      "path": "apps/ban-ga/",
+      "added": 0,
+      "updated": 0
+    },
+    {
+      "id": "lat-the-tri-nho",
+      "title": "Lật Thẻ Trí Nhớ",
+      "type": "game",
+      "category": "Giải đố",
+      "description": "Lật hai thẻ một lượt, tìm đủ 8 cặp giống nhau với ít lượt nhất.",
+      "author": "",
+      "color": "#2b7fd6",
+      "icon": null,
+      "cover": null,
+      "path": "apps/lat-the-tri-nho/",
+      "added": 0,
+      "updated": 0
+    },
+    {
+      "id": "ma-soi",
+      "title": "Ma Sói · Lời Nguyền Làng Sương",
+      "type": "game",
+      "category": "Nhập vai",
+      "description": "Một người chơi cùng AI, hoàn toàn ngoại tuyến. Tìm ra Ma Sói trước khi quá muộn.",
+      "author": "",
+      "color": "#9e7944",
+      "icon": null,
+      "cover": null,
+      "path": "apps/ma-soi/",
+      "added": 0,
+      "updated": 0
+    },
+    {
+      "id": "neon-breaker",
+      "title": "Neon Breaker",
+      "type": "game",
+      "category": "Arcade",
+      "description": "Phá gạch giữa ngân hà với đồ họa neon rực rỡ.",
+      "author": "",
+      "color": "#7b3fe4",
+      "icon": null,
+      "cover": null,
+      "path": "apps/neon-breaker/",
+      "added": 0,
+      "updated": 0
+    },
+    {
+      "id": "tiksave",
+      "title": "TikSave",
+      "type": "tool",
+      "category": "Tiện ích",
+      "description": "Dán link TikTok để tải video không logo hoặc tách nhạc MP3.",
+      "author": "",
+      "color": "#fe2c55",
+      "icon": null,
+      "cover": null,
+      "path": "apps/tiksave/",
+      "added": 0,
+      "updated": 0
+    },
+    {
+      "id": "vuon-hoa-thu-thanh",
+      "title": "Vườn Hoa Thủ Thành",
+      "type": "game",
+      "category": "Chiến thuật",
+      "description": "Trồng cây phòng thủ, giữ vườn trước từng đợt tấn công.",
+      "author": "",
+      "color": "#3f9a5b",
+      "icon": null,
+      "cover": null,
+      "path": "apps/vuon-hoa-thu-thanh/",
+      "added": 0,
+      "updated": 0
+    }
+  ]
+}
